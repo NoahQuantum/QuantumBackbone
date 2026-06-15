@@ -1,6 +1,6 @@
 """
 
-Module 1: Topological Core for Anti-Fragile Asset Allocation
+Module 1: topological_core.py (Topological Core for Anti-Fragile Asset Allocation)
 
 Focus: Partially Ordered Sets (Poset) & Simplicial Geometric Allocation
 
