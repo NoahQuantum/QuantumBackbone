@@ -60,7 +60,7 @@ QuantumBackbone is designed for zero-bloat, low-latency execution. It relies sol
 
 ### Installation
 ```bash
-git clone [https://github.com/NoahQuantum/QuantumBackbone.git](https://github.com/NoahQuantum/QuantumBackbone.git)
+git clone https://github.com/NoahQuantum/QuantumBackbone.git https://github.com/NoahQuantum/QuantumBackbone.git
 cd QuantumBackbone
 pip install numpy scipy
 
